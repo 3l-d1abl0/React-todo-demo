@@ -43,8 +43,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 This is a very beginner React App. A simple todo list where one can learn about React Components to create Modal Windows .
 
 <p align="right">(<a href="#top">back to top</a>)</p>
